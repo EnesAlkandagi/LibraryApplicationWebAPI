@@ -1,5 +1,5 @@
 # LibraryApplicationWebAPI
-A sample library Web API project with ASP.NET Core 6.0. Developed as a Layered Architecture. Authentication and Authorization provided
+A sample library Web API project with ASP.NET Core. Developed as a Layered Architecture. Authentication and Authorization provided
 
 
  domain  |tech |
