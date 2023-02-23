@@ -1,0 +1,15 @@
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\enesy\source\repos\LibraryApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\enesy\source\repos\LibraryApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\enesy\source\repos\LibraryApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\enesy\source\repos\LibraryApp\Core\bin\Debug\net6.0\Entities.dll
+C:\Users\enesy\source\repos\LibraryApp\Core\bin\Debug\net6.0\Entities.pdb
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.csproj.CopyComplete
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\enesy\source\repos\LibraryApp\Core\obj\Debug\net6.0\ref\Core.dll
